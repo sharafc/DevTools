@@ -8,10 +8,11 @@
 
 DIR=$(dirname "$(readlink -f "$0")")
 
-for FILE in $(find . -name "package.json" -type f -not -path "./*/node_modules/*" -not -path "./*/target/*")
+find . -name "package.json" -type f -not -path "./*/node_modules/*" -not -path "./*/target/*" -print0 | while read -r -d $'\0' FILE
 do
-    FILEPATH="${FILE%/*}"
-    cd $FILEPATH || exit
-    npm audit fix 2>&1 | tee audit_log.txt
-    cd $DIR || exit
+  FILEPATH="${FILE%/*}"
+  cd $FILEPATH || exit
+  npm audit fix 2>&1 | tee audit_log.txt
+  echo "--------------------------------------------"
+  cd $DIR || exit
 done
