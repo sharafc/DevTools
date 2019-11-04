@@ -11,4 +11,4 @@ Collection of my own bash scripts, tricks and tips for improving my development 
 [Automatic Audit and Log](findPackagesAndExecuteNPMAuditFix.sh)
 
 ## CSS
-[CSS Tricks](css.md)
+[CSS Tricks](css_tricks.md)
