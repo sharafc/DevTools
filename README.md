@@ -12,3 +12,6 @@ Collection of my own bash scripts, tricks and tips for improving my development 
 
 ## CSS
 [CSS Tricks](css_tricks.md)
+
+## Books, Websites etc.pp.
+[Resources](resources.md)
