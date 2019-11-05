@@ -16,6 +16,10 @@
 
 [Heise Developer](https://www.heise.de/developer/)
 
+[CSS Animation](https://cssanimation.rocks/)
+
 ## Feeds
 
 [Frontend Focus](https://frontendfoc.us/)
+
+[CSS Animation Weekly](https://cssanimation.rocks/weekly/)
