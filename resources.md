@@ -23,3 +23,7 @@
 [Frontend Focus](https://frontendfoc.us/)
 
 [CSS Animation Weekly](https://cssanimation.rocks/weekly/)
+
+## Tutorials
+
+[Compilation of Tutorial Projects](https://github.com/tuvtran/project-based-learning)
