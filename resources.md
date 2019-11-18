@@ -18,6 +18,12 @@
 
 [CSS Animation](https://cssanimation.rocks/)
 
+[Free for Developers](https://free-for.dev/)
+
+## Cheatsheets
+
+[GitSheet](https://gitsheet.wtf/)
+
 ## Feeds
 
 [Frontend Focus](https://frontendfoc.us/)
