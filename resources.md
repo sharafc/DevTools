@@ -33,3 +33,7 @@
 ## Tutorials
 
 [Compilation of Tutorial Projects](https://github.com/tuvtran/project-based-learning)
+
+## Podcasts
+
+[Smashing Podcast](https://podcast.smashingmagazine.com/)
