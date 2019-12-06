@@ -37,3 +37,6 @@
 ## Podcasts
 
 [Smashing Podcast](https://podcast.smashingmagazine.com/)
+
+[Podcast Collection](https://github.com/timarney/podcasts)
+
