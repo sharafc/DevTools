@@ -40,3 +40,9 @@
 
 [Podcast Collection](https://github.com/timarney/podcasts)
 
+## Resource Lists
+
+https://github.com/neutraltone/awesome-stock-resources
+
+https://github.com/sw-yx/spark-joy
+
