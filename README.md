@@ -8,6 +8,8 @@ Collection of my own bash scripts, tricks and tips for improving my development 
 [Docker Housekeeping](docker_housekeeping.md)
 
 ## NPM and Node
+[NPM Housekeeping](npm_node_housekeeping.md)
+
 [Automatic Audit and Log](findPackagesAndExecuteNPMAuditFix.sh)
 
 ## CSS
@@ -15,3 +17,5 @@ Collection of my own bash scripts, tricks and tips for improving my development 
 
 ## Books, Websites etc.pp.
 [Resources](resources.md)
+
+[My Medium posts](https://medium.com/@SharafChris)
