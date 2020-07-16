@@ -1,5 +1,5 @@
 # Development Tools, Tips & Tricks and Miscellaneous
-Collection of my own bash scripts, tricks and tips for improving my development workflow.
+Collection of my own bash scripts, tips and tricks for improving my development workflow and some gained knowledge I want to share.
 
 ## Git
 [Git Housekeeping](git_housekeeping.md)
@@ -14,6 +14,9 @@ Collection of my own bash scripts, tricks and tips for improving my development 
 
 ## CSS
 [CSS Tricks](css_tricks.md)
+
+## PHP
+[Symfony Universe](php_symfony_universe.md)
 
 ## Books, Websites etc.pp.
 [Resources](resources.md)
