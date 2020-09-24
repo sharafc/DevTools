@@ -24,16 +24,16 @@ Collection of my own bash scripts, tips and tricks for improving my development 
 
 [My Medium posts](https://medium.com/@SharafChris)
 
-### Online Editors / Validators
-#### HTML/CSS/JavaScrip
+## Online Editors / Validators
+### HTML/CSS/JavaScrip
 [Codepen](https://codepen.io)
 
 [JSFiddle](https://jsfiddle.net)
 
 [CSS Specificity Calculator](https://specificity.keegan.st)
 
-#### PHP
+### PHP
 [3v4l PHP Online Shell](https://3v4l.org)
 
-#### RegEx
+### RegEx
 [RegEx Tester](https://www.regextester.com)
