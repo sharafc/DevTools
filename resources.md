@@ -23,6 +23,7 @@
 ## Cheatsheets
 
 [GitSheet](https://gitsheet.wtf/)
+[DevDocs](https://devdocs.io/)
 
 ## Feeds
 
@@ -45,4 +46,6 @@
 https://github.com/neutraltone/awesome-stock-resources
 
 https://github.com/sw-yx/spark-joy
+
+https://github.com/public-apis/public-apis
 
