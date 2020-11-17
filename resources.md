@@ -23,6 +23,7 @@
 ## Cheatsheets
 
 [GitSheet](https://gitsheet.wtf/)
+
 [DevDocs](https://devdocs.io/)
 
 ## Feeds
@@ -38,6 +39,12 @@
 ## Podcasts
 
 [Smashing Podcast](https://podcast.smashingmagazine.com/)
+
+[Full Stack Radio](https://fullstackradio.com/)
+
+[Syntax FM](https://syntax.fm/)
+
+[JavaScript Jabber](https://devchat.tv/podcasts/js-jabber/)
 
 [Podcast Collection](https://github.com/timarney/podcasts)
 
