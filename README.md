@@ -18,6 +18,8 @@ Collection of my own bash scripts, tips and tricks for improving my development 
 ## PHP
 [Symfony Universe](php_symfony_universe.md)
 
+[PHP Design Patterns](https://designpatternsphp.readthedocs.io/en/latest/README.html)
+
 ## Books, Websites etc.pp.
 [Resources](resources.md)
 
